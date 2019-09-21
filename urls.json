@@ -1,0 +1,5 @@
+{
+  "token_url": "http://localhost:8000/auth/token/login/",
+  "create_chat_url": "http://localhost:8000/api/chats/",
+  "create_user_url": "http://localhost:8000/auth/users/"
+}
